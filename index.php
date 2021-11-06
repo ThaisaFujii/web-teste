@@ -12,10 +12,10 @@
         <div id="menu_Align">
             <ul>
                 <li id="menu_Logo">logoTipo</li>
-                <li class="active"><a href="#">CATEGORIA 01</a></li>
-                <li><a href="#"></a>CATEGORIA 02</li>
-                <li><a href="#"></a>CATEGORIA 03</li>
-                <li><a href="#"></a>CATEGORIA 04</li>
+                <li class="active"><a href="#">CATEGORIA 01/HOME</a></li>
+                <li><a href="#"></a>CATEGORIA 02/CURIOSIDADE</li>
+                <li><a href="#"></a>CATEGORIA 03/CONTATO</li>
+                <li><a href="#"></a>CATEGORIA 04/PUBLIQUE</li>
 
             </ul>
 		<div class="container">
@@ -27,7 +27,14 @@
         </nav>
 		
 		</header>
-        <section></section>
+        <section>
+            <article>
+                <img src="./img/projeto01.jpg" alt="post 01" title="" width="160px" height="140px"/>
+                <img src="./img/projeto02.jpg" alt="post 02" title="" width="160px" height="140px"/>
+                <img src="./img/projeto03.jpg" alt="post 03" title="" width="160px" height="140px"/>
+                <img src="" alt="publicity" title="" width="" height=""/>
+            </article>
+        </section>
 		
 	</body>
 </html>
